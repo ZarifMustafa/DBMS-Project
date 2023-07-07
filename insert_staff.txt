@@ -1,0 +1,89 @@
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164240562', 'Shakib', 'Narayanganj', 'Chashara', '385', '1400', 'Waiter', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'skkhan@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164245430', 'Ananta', 'Dhaka', 'Singair Road', '225', '1820', 'Cook', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'ananta@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164247468', 'Mosharraf', 'Dhaka', 'Banani', '402', '1213', 'Waiter', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'mosharraf@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164246484', 'Tahsan', 'Dhaka', 'Arambag', '895', '1222', 'Waiter', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'tahsan@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164249043', 'Siam', 'Dhaka', 'Baily Road', '924', '1000', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'siam@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164245592', 'Dipjol', 'Barishal', '85', '376', '2233', 'Cook', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'dipjol@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164245896', 'Nisho', 'Dhaka', 'Dhanmondi', '682', '2235', 'Waiter', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'nisho@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164249130', 'Salman', 'Dhaka', 'Mirpur DOHS', '761', '1216', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'salman@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164241823', 'Barua', 'Chittagong', 'Alkoron Road', '502', '3164', 'Cook', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'barua@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164248964', 'Chanchal', 'Dhaka', 'Uttara', '434', '1230', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'chanchal@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164246860', 'Ayman', 'Dhaka', 'Rojonigondha', '534', '1206', 'Waiter', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'ayman@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164243685', 'Sadman', 'Dhaka', 'Mirpur DOHS', '619', '1216', 'Cook', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'sadman@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164249615', 'Antik', 'Dhaka', 'Mirpur 02', '293', '1216', 'Cook', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'antik@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164247373', 'Morshed', 'Dhaka', 'Shahbag', '674', '1217', 'Waiter', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'morshed@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164242857', 'Shohag', 'Dhaka', 'Farmgate', '1009', '1215', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'shohag@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164247191', 'Ratul', 'Dhaka', 'Azimpur', '719', '1205', 'Waiter', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'ratul@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164247788', 'Shawon', 'Rajshahi', 'Bhabaniganj', '1029', '6250', 'Waiter', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'shawon@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164248748', 'Kabbo', 'Dhaka', 'Tejgaon', '746', '1215', 'Cook', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'kabbo@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164243388', 'Yasin', 'Sylhet', 'Jaflong', '956', '3151', 'Cook', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'yasin@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164241594', 'Anis', 'Dhaka', 'Jatrabari', '382', '1232', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'anis@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164246377', 'Faysal', 'Dhaka', 'Bashundhara', '448', '1229', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'faysal@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164240791', 'Shahid', 'Mymensingh', 'Akua', '118', '2200', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'shahid@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164243473', 'Sourav', 'Dhaka', 'Khilgaon', '173', '1219', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'sourav@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164240913', 'Bala', 'Dhaka', 'Uttar Kafrul', '620', '1206', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'bala@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164244637', 'Khyang', 'Rangamati', 'Suvolong', '832', '4500', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'khyang@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164247014', 'Saif', 'Dhaka', 'Garrison', '516', '1206', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'saif@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164241429', 'Gomes', 'Dhaka', 'Rakin City', '1004', '1216', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'gomes@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164243647', 'Hussain', 'Dhaka', 'Ibrahimpur Road', '793', '1206', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'hussain@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164243953', 'Nishad', 'Dhaka', 'Banani DOHS', '892', '1213', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'nishad@gmail.com');
+
+insert into staff (staff_nid, staff_name, staff_city, staff_street, staff_house_no, staff_zipcode, staff_type, staff_id, staff_email)
+values('9164245577', 'Mehedi', 'Dhaka', 'Agargaon', '752', '1207', 'Decorator', 'STAF'||LPAD(staff_id_sequence.nextval,4,'0'), 'mehedi@gmail.com');

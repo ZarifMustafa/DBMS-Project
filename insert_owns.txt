@@ -1,0 +1,32 @@
+insert into owns (owner_id, hall_id)
+values ('OWNR2001', 'HALL4001');
+
+insert into owns (owner_id, hall_id)
+values ('OWNR2001', 'HALL4002');
+
+insert into owns (owner_id, hall_id)
+values ('OWNR2002', 'HALL4002');
+
+insert into owns (owner_id, hall_id)
+values ('OWNR2003', 'HALL4003');
+
+insert into owns (owner_id, hall_id)
+values ('OWNR2004', 'HALL4004');
+
+insert into owns (owner_id, hall_id)
+values ('OWNR2004', 'HALL4006');
+
+insert into owns (owner_id, hall_id)
+values ('OWNR2005', 'HALL4007');
+
+insert into owns (owner_id, hall_id)
+values ('OWNR2005', 'HALL4009');
+
+insert into owns (owner_id, hall_id)
+values ('OWNR2006', 'HALL4005');
+
+insert into owns (owner_id, hall_id)
+values ('OWNR2008', 'HALL4005');
+
+insert into owns (owner_id, hall_id)
+values ('OWNR2007', 'HALL4008');

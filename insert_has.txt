@@ -1,0 +1,53 @@
+insert into has (hall_id, dec_id)
+values ('HALL0003', 'DECO0001');
+
+insert into has (hall_id, dec_id)
+values ('HALL0001', 'DECO0005');
+
+insert into has (hall_id, dec_id)
+values ('HALL0001', 'DECO0004');
+
+insert into has (hall_id, dec_id)
+values ('HALL0001', 'DECO0002');
+
+insert into has (hall_id, dec_id)
+values ('HALL0001', 'DECO0001');
+
+insert into has (hall_id, dec_id)
+values ('HALL0002', 'DECO0003');
+
+insert into has (hall_id, dec_id)
+values ('HALL0002', 'DECO0009');
+
+insert into has (hall_id, dec_id)
+values ('HALL0002', 'DECO0006');
+
+insert into has (hall_id, dec_id)
+values ('HALL0003', 'DECO0004');
+
+insert into has (hall_id, dec_id)
+values ('HALL0003', 'DECO0002');
+
+insert into has (hall_id, dec_id)
+values ('HALL0004', 'DECO0001');
+
+insert into has (hall_id, dec_id)
+values ('HALL0004', 'DECO0002');
+
+insert into has (hall_id, dec_id)
+values ('HALL0004', 'DECO0005');
+
+insert into has (hall_id, dec_id)
+values ('HALL0005', 'DECO0004');
+
+insert into has (hall_id, dec_id)
+values ('HALL0005', 'DECO0006');
+
+insert into has (hall_id, dec_id)
+values ('HALL0006', 'DECO0003');
+
+insert into has (hall_id, dec_id)
+values ('HALL0006', 'DECO0007');
+
+insert into has (hall_id, dec_id)
+values ('HALL0006', 'DECO0005');

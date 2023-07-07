@@ -1,0 +1,53 @@
+insert into offers (hall_id, catering_id)
+values ('HALL0001', 'CATR9005');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0005', 'CATR9001');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0001', 'CATR9004');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0001', 'CATR9002');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0001', 'CATR9001');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0002', 'CATR9001');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0002', 'CATR9009');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0002', 'CATR9005');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0003', 'CATR9005');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0003', 'CATR9007');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0004', 'CATR9001');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0004', 'CATR9002');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0004', 'CATR9003');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0005', 'CATR9003');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0005', 'CATR9006');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0006', 'CATR9008');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0006', 'CATR9004');
+
+insert into offers (hall_id, catering_id)
+values ('HALL0006', 'CATR9002');

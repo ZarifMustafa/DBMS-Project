@@ -1,0 +1,29 @@
+insert into books (customer_id, menu_id, hall_id, dec_id, catering_id, booking_date, booked_slot, head_count)
+values ('CUST0001', 'MENU0001', 'HALL0001', 'DECO0001', 'CATR0001', TO_DATE('23-04-2023','DD-MM-YYYY'), 'Evening', 700);
+
+insert into books (customer_id, menu_id, hall_id, dec_id, catering_id, booking_date, booked_slot, head_count)
+values ('CUST0004', 'MENU0002', 'HALL0001', 'DECO0002', 'CATR0004', TO_DATE('25-04-2023','DD-MM-YYYY'), 'Morning', 314);
+
+insert into books (customer_id, menu_id, hall_id, dec_id, catering_id, booking_date, booked_slot, head_count)
+values ('CUST0002', 'MENU0001', 'HALL0004', 'DECO0001', 'CATR0002', TO_DATE('27-04-2023','DD-MM-YYYY'), 'Evening', 1250);
+
+insert into books (customer_id, menu_id, hall_id, dec_id, catering_id, booking_date, booked_slot, head_count)
+values ('CUST0001', 'MENU0002', 'HALL0004', 'DECO0002', 'CATR0001', TO_DATE('28-04-2023','DD-MM-YYYY'), 'Evening', 1362);
+
+insert into books (customer_id, menu_id, hall_id, dec_id, catering_id, booking_date, booked_slot, head_count)
+values ('CUST0003', 'MENU0004', 'HALL0005', 'DECO0004', 'CATR0003', TO_DATE('30-04-2023','DD-MM-YYYY'), 'Evening', 895);
+
+insert into books (customer_id, menu_id, hall_id, dec_id, catering_id, booking_date, booked_slot, head_count)
+values ('CUST0005', 'MENU0004', 'HALL0003', 'DECO0004', 'CATR0005', TO_DATE('02-05-2023','DD-MM-YYYY'), 'Morning', 495);
+
+insert into books (customer_id, menu_id, hall_id, dec_id, catering_id, booking_date, booked_slot, head_count)
+values ('CUST0004', 'MENU0003', 'HALL0004', 'DECO0005', 'CATR0003', TO_DATE('03-04-2023','DD-MM-YYYY'), 'Evening', 1399);
+
+insert into books (customer_id, menu_id, hall_id, dec_id, catering_id, booking_date, booked_slot, head_count)
+values ('CUST0006', 'MENU0003', 'HALL0002', 'DECO0003', 'CATR0006', TO_DATE('05-04-2023','DD-MM-YYYY'), 'Evening', 750);
+
+insert into books (customer_id, menu_id, hall_id, dec_id, catering_id, booking_date, booked_slot, head_count)
+values ('CUST0008', 'MENU0002', 'HALL0003', 'DECO0002', 'CATR0007', TO_DATE('07-04-2023','DD-MM-YYYY'), 'Morning', 525);
+
+insert into books (customer_id, menu_id, hall_id, dec_id, catering_id, booking_date, booked_slot, head_count)
+values ('CUST0007', 'MENU0003', 'HALL0006', 'DECO0003', 'CATR0008', TO_DATE('10-04-2023','DD-MM-YYYY'), 'Evening', 545);
